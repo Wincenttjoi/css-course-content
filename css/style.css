@@ -1,4 +1,4 @@
-body {
+/* body {
 	background: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
 	font-size: 1.15em;
 	text-align: justify;
@@ -10,8 +10,8 @@ input, textarea {
 	margin: 10px;
 }
 
-#title {
-	color: rgb(186, 133, 9);
+.title {
+	color: red;
 	font-family: "Sarabun", sans-serif;
 }
 
@@ -118,7 +118,7 @@ input, textarea {
 	animation-duration: 4s;
 	animation-timing-function: linear;
 	animation-iteration-count: 2;
-	animation-direction: alternate-reverse;*/
+	animation-direction: alternate-reverse;
 
 	-webkit-animation: red-to-black 4s linear 0s 2 alternate-reverse;
 	-moz-animation: red-to-black 4s linear 0s 2 alternate-reverse;
@@ -141,4 +141,4 @@ input, textarea {
 		background: black; 
 		transform: translate(20px, 20px);
 	}
-}
+} */ 
